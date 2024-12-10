@@ -1,8 +1,4 @@
 
-## Fabric Image
-![Fabric](/images/fabric.png)
+# forti-srl
 
-## Overlay Image
-![Overlay](/images/overlay.png)
-# forti-srl
-# forti-srl
+SRLinux EVPN Fabric with Integrated Fortigate
